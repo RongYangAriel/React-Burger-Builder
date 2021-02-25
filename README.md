@@ -1,4 +1,4 @@
-#A Burger Builder React Project
+# A Burger Builder React Project
 [Live Demo](https://rongyangariel.github.io/React-Burger-Builder/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
